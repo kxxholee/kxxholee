@@ -6,7 +6,7 @@
 <br>
 <br>
 <div align="left">
-  <a href="https://github.com/vanillaPenguin/Catppuccin-Banner", align="center">
+  <a href="https://github.com/kxxholee/Catppuccin-Banner", align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-link-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/banner-link-light.png">
@@ -30,7 +30,7 @@ adiaCode/CaskaydiaCoveNerdFontMono-Bold.ttf" --image-border-radius=20 --text-ali
 ###  Hello guys👋
 
 <!--
-**vanillaPenguin/vanillaPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kxxholee/kxxholee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
