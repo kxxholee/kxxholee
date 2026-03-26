@@ -1,45 +1,28 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/intro-light.png">
-  <img alt="intro" src="./assets/intro-dark.png", width=100%>
-</picture>
-<br>
-<br>
-<div align="left">
-  <a href="https://github.com/kxxholee/Catppuccin-Banner", align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-link-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/banner-link-light.png">
-      <img alt="banner" src="./assets/banner-link-dark.png", width=50%>
-    </picture>
-  </a>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif"  />
 </div>
 
-<!--
-❯ python banner.py --path="../vanillaPenguin/assets/banner-link-dark.png" --text="Click to find out how I create my github banners
-!!" --flavour=mocha --text-color=text --text-border-color=text --image-size=720x40 --image-border-color=text --font="./fonts/Casca
-diaCode/CaskaydiaCoveNerdFontMono-Bold.ttf" --image-border-radius=20 --text-align=left --text-geometry=10,2 --image-border-size=0 
---font-size=24
-❯ python banner.py --path="../vanillaPenguin/assets/banner-link-light.png" --text="Click to find out how I create my github banner
-s!!" --flavour=latte --text-color=text --text-border-color=text --image-size=720x40 --image-border-color=text --font="./fonts/Casc
-adiaCode/CaskaydiaCoveNerdFontMono-Bold.ttf" --image-border-radius=20 --text-align=left --text-geometry=10,2 --image-border-size=0
- --font-size=24
--->
+###
 
--------
-###  Hello guys👋
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="20" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20" alt="matlab logo"  />
+</div>
 
-<!--
-**kxxholee/kxxholee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+</div>
+
+###
