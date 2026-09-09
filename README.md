@@ -1,15 +1,14 @@
 
-# KH Lee
+# Kwanho Lee
 **AI-Aware Embedded & System Software Engineer**
 
-AI 알고리즘의 원리를 이해하고, 이를 자원이 제한된 Edge 및 Embedded 환경에서 안정적으로 동작하도록 시스템을 설계하고 최적화하는 데 관심이 많습니다!
+*I am highly interested in understanding the core principles of AI algorithms and designing optimized systems to deploy them reliably in resource-constrained edge and embedded environments.*
 
 - Contact : kxxholee@gmail.com
 
-
 ---
 
-### Tech Stack & Skills
+### Skills
 
 **Low-level & System**
 - **Languages:** C, C++, Python, Bash Script
@@ -21,6 +20,7 @@ AI 알고리즘의 원리를 이해하고, 이를 자원이 제한된 Edge 및 E
 - **Computer Vision:** Object Detection(Wildlife), Network Optimization for Edge Devices
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
+  <!-- <img height="150" src="https://media.giphy.com/media/ou60s0z0v7JzSWGn8C/giphy.gif"  /> -->
 </div>
 
